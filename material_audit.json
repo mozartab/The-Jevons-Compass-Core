@@ -1,0 +1,24 @@
+{
+  "audit_id": "TJC-2026-ALPHA",
+  "project": "Salomon_Speedcross_Concept",
+  "components": [
+    {
+      "part": "Outsole",
+      "material_type": "Petroleum Rubber",
+      "fillers": "Carbon Black",
+      "impact_score": "HIGH",
+      "notes": "Standard industry compound. High abrasion creates persistent microplastics."
+    },
+    {
+      "part": "Outsole_Variant_B",
+      "material_type": "LITHOS Regenerative Compound",
+      "fillers": "Micronized Olivine (Ol)",
+      "impact_score": "NEGATIVE",
+      "notes": "Carbon capture activated via kinetic friction. Offsets production liability."
+    }
+  ],
+  "system_status": {
+    "efficiency_paradox": "RESOLVED",
+    "solution_applied": "Material Arbitrage (Olivine)"
+  }
+}
